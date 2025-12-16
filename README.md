@@ -1,45 +1,37 @@
-<h1 align="center">
-  👋 Hi, I'm <strong>Akhil Singh</strong> |
-  <a href="https://www.google.com/search?q=akhil+singh+jee" target="_blank" style="text-decoration:none;color:#5E60CE;">
-    <strong>@AKHILSINGHJEE</strong>
-  </a>
-</h1>
-
+<h1 align="center">👋 Hi there! I'm <strong>Akhil Singh</strong> | <a href="https://www.google.com/search?q=akhil+singh+jee" target="_blank" style="text-decoration:none;color:#5E60CE;"><strong>@AKHILSINGHJEE</strong></a></h1>
 <div align="center">
   <img height="120" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
 ---
 
-### 🧠 Who I Am
+### 🧠 Who I Am?
 
-I am a **college-level developer** with hands-on experience in **AI/ML and drone-related projects**. I have learned and worked through **projects, internships, and freelance work**, focusing on practical implementation rather than theory alone.
+I'm a **multi-disciplinary developer** passionate about building smarter tech-combining  **Robotics**, **AI/ML**,, **Firmware**, and **IoT** into scalable, secure, and intelligent systems.
 
-My interest lies in building and understanding how **AI models, embedded systems, and drones** work together in real applications.
+🔍 I specialize in:
+- **UAV Technology** & Drone Firmware Developer
+- **AI-Powered Automation** & Machine Learning Projects
+- **Embedded Systems + IoT Control Units**
+- Other - **Frontend Web Development** (Responsive, Secure & SEO-driven)
 
-🔍 Areas I have worked in:
-- **UAV & Drone Systems** (basic firmware, sensors, workflows)
-- **AI & Machine Learning projects** (learning-based, project-level)
-- **Computer Vision** for detection and analysis
-- **Embedded Systems & IoT** for automation use cases  
-- Additional exposure to **frontend development** for project interfaces
+📝 Tech Blogger at <a href="https://www.uwinpc.com" target="_blank" style="text-decoration:none;color:#5E60CE;">@UwinPC</a> | Open Source Contributor | UAV | ML
 
-⚙️ I enjoy experimenting, learning by building, and improving my skills step by step through real work.
+⚙️ Constantly exploring how technology can evolve—whether through emotion-detecting AI or cloud-integrated autonomous drones.
 
 ---
 
 ### 🛠 Skills & Tools
 
 **Core Skills**
-- Artificial Intelligence & Machine Learning (project-based)
-- Drone & UAV systems
-- Embedded systems and basic firmware development
-- Computer vision fundamentals
-- Basic frontend development for project needs
+- Robotics, AI, Machine Learning 
+- Firmware Development & Embedded IoT Systems
+- Frontend Web Development, SEO, UI/UX   
+- Project Management & Cloud Computing (Azure, AWS)
 
 **Tech Stack**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,git,figma,vscode" height="30" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,cpp,java,nodejs,tailwind,git,firebase,aws,docker,azure,figma,vscode" height="30" />
 </div>
 
 ---
@@ -47,37 +39,30 @@ My interest lies in building and understanding how **AI models, embedded systems
 ### 💼 Experience
 
 **AirM (Artificial Intelligence Robots Macrocosm Pvt. Ltd)**  
-*Project Work · Firmware & AI Exposure*  
-Worked on an AI-based drone project where I gained experience with **UAV systems, embedded firmware, and AI integration** at a practical level.
+*Project Manager · Firmware Developer · Web Developer*  
+Led the Veronica AI drone project with mission planner-based embedded firmware (PicoW), AI-IoT integration, and scalable frontend development for [airm.co.in](https://airm.co.in).
 
 **RAR Engineering Pvt. Ltd**  
-*Web & Product Support (Project-based)*  
-Contributed to building and managing **shockbuffer.com**, focusing on product presentation, structure, and basic technical improvements.
+*Web & Product Specialist*  
+Built [shockbuffer.com](https://shockbuffer.com) with SEO-optimized UI/UX for defense-grade product listings and digital presence.
 
 ---
 
 ### 📜 Certifications
 
-- Microsoft Azure AI Internship – Edunet Foundation (AICTE)  
-- AWS Solutions Architecture – Forage (Virtual Program)  
-- Cloud Bootcamp – GeeksforGeeks  
-- EC-Council: Ethical Hacking Essentials (EHE), Network Defense Essentials (NDE)
+- Microsoft Azure AI Internship (Edunet Foundation, AICTE Certified)  
+- AWS x Forage – Solutions Architecture Job Simulation  
+- GeeksforGeeks Cloud Bootcamp (Sponsored by Google Developers)  
+- EC-Council Certified: Ethical Hacking Essentials (EHE), Network Defense Essentials (NDE)
 
 ---
 
 ### 🚀 Projects
 
-- **smart-emotion-detector-ai**  
-  Real-time facial emotion detection using OpenCV and machine learning concepts
-
-- **Veronica AI Drone**  
-  Project-level autonomous drone using Raspberry Pi Pico W with embedded and AI components
-
-- **Shockbuffer.com**  
-  Industrial product website developed as part of project and work exposure
-
-- **UwinPC.com**  
-  Technology blog focused on Windows, AI, and learning-based content
+- `smart-emotion-detector-ai` — Real-time facial emotion detection using OpenCV & ML  
+- `Veronica AI Drone` — Autonomous micro drone built using Raspberry Pi PicoW & firmware stack  
+- `Shockbuffer.com` — Modern defense-tech site with scalable product UX  
+- `UwinPC.com` — A tech blog delivering Windows updates, AI news, and tutorials
 
 ---
 
@@ -106,9 +91,10 @@ Contributed to building and managing **shockbuffer.com**, focusing on product pr
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=akhil-singh-jee&theme=dark" height="140" />
+  <img src="https://streak-stats.demolab.com?user=akhil-singh-jee&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="140" />
 </div>
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=akhil-singh-profile" />
 </div>
+
+
