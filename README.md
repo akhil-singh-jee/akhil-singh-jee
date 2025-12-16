@@ -1,100 +1,133 @@
-<h1 align="center">👋 Hi there! I'm <strong>Akhil Singh</strong> | <a href="https://www.google.com/search?q=akhil+singh+jee" target="_blank" style="text-decoration:none;color:#5E60CE;"><strong>@AKHILSINGHJEE</strong></a></h1>
-<div align="center">
-  <img height="120" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
+<h1 align="center">
+  Hi, I'm Akhil Singh 👋  
+</h1>
+
+<h3 align="center">
+  Robotics & AI Engineer | UAV Firmware Developer | Full-Stack Web Developer
+</h3>
+
+<p align="center">
+  Building intelligent systems at the intersection of <strong>Robotics, AI/ML, Embedded Systems, and Web Technologies</strong>.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/akhil-singh-jee/">LinkedIn</a> ·
+  <a href="https://uwinpc.com">UwinPC</a> ·
+  <a href="mailto:realakhilsingh@gmail.com">Email</a> ·
+  <a href="https://www.youtube.com/@uwinpc">YouTube</a>
+</p>
 
 ---
 
-### 🧠 Who I Am?
+## 👨‍💻 About Me
 
-I'm a **multi-disciplinary developer** passionate about building smarter tech-combining  **Robotics**, **AI/ML**,, **Firmware**, and **IoT** into scalable, secure, and intelligent systems.
+I am a **multi-disciplinary technology professional** with hands-on experience in **UAV systems, embedded firmware, AI-driven applications, and scalable web platforms**.
 
-🔍 I specialize in:
-- **UAV Technology** & Drone Firmware Developer
-- **AI-Powered Automation** & Machine Learning Projects
-- **Embedded Systems + IoT Control Units**
-- Other - **Frontend Web Development** (Responsive, Secure & SEO-driven)
+My work focuses on converting **research-grade ideas into real-world, deployable systems**, particularly in:
+- Autonomous drones & robotics  
+- AI-powered perception and automation  
+- Embedded + IoT-based control systems  
+- Performance-optimized, SEO-driven web platforms  
 
-📝 Tech Blogger at <a href="https://www.uwinpc.com" target="_blank" style="text-decoration:none;color:#5E60CE;">@UwinPC</a> | Open Source Contributor | UAV | ML
-
-⚙️ Constantly exploring how technology can evolve—whether through emotion-detecting AI or cloud-integrated autonomous drones.
+I also run **UwinPC**, a technology publication covering Windows, AI, and emerging technologies.
 
 ---
 
-### 🛠 Skills & Tools
+## 🔍 Current Focus
 
-**Core Skills**
-- Robotics, AI, Machine Learning 
-- Firmware Development & Embedded IoT Systems
-- Frontend Web Development, SEO, UI/UX   
-- Project Management & Cloud Computing (Azure, AWS)
-
-**Tech Stack**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,cpp,java,nodejs,tailwind,git,firebase,aws,docker,azure,figma,vscode" height="30" />
-</div>
+- Autonomous & AI-assisted UAV systems  
+- Computer vision (real-time inference, emotion detection, object tracking)  
+- Embedded firmware (RP2040, IoT stacks, sensor integration)  
+- AI + Web integration for data-driven platforms  
+- Preparing for advanced roles in **AI/ML & Robotics Engineering**
 
 ---
 
-### 💼 Experience
+## 🛠 Technical Skills
 
-**AirM (Artificial Intelligence Robots Macrocosm Pvt. Ltd)**  
-*Project Manager · Firmware Developer · Web Developer*  
-Led the Veronica AI drone project with mission planner-based embedded firmware (PicoW), AI-IoT integration, and scalable frontend development for [airm.co.in](https://airm.co.in).
+### Core Domains
+- Robotics & UAV Systems  
+- Artificial Intelligence & Machine Learning  
+- Embedded Systems & Firmware Development  
+- IoT Architecture & Automation  
+- Full-Stack Web Development  
 
-**RAR Engineering Pvt. Ltd**  
-*Web & Product Specialist*  
-Built [shockbuffer.com](https://shockbuffer.com) with SEO-optimized UI/UX for defense-grade product listings and digital presence.
-
----
-
-### 📜 Certifications
-
-- Microsoft Azure AI Internship (Edunet Foundation, AICTE Certified)  
-- AWS x Forage – Solutions Architecture Job Simulation  
-- GeeksforGeeks Cloud Bootcamp (Sponsored by Google Developers)  
-- EC-Council Certified: Ethical Hacking Essentials (EHE), Network Defense Essentials (NDE)
+### Technology Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,react,nodejs,tailwind,git,docker,firebase,aws,azure,figma,vscode" />
+</p>
 
 ---
 
-### 🚀 Projects
+## 💼 Professional Experience
 
-- `smart-emotion-detector-ai` — Real-time facial emotion detection using OpenCV & ML  
-- `Veronica AI Drone` — Autonomous micro drone built using Raspberry Pi PicoW & firmware stack  
-- `Shockbuffer.com` — Modern defense-tech site with scalable product UX  
-- `UwinPC.com` — A tech blog delivering Windows updates, AI news, and tutorials
+### **AirM (Artificial Intelligence Robots Macrocosm Pvt. Ltd)**  
+**Project Manager · Firmware Developer · Web Developer**
 
----
-
-### 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/akhil-singh-jee/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28" />
-  </a>
-  <a href="mailto:realakhilsingh@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="28" />
-  </a>
-  <a href="https://x.com/akhil_singh_jee">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="28" />
-  </a>
-  <a href="https://instagram.com/akhil_singh_jee/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="28" />
-  </a>
-  <a href="https://www.youtube.com/@uwinpc">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="28" />
-  </a>
-</div>
+- Led development of **Veronica AI Drone**, an autonomous micro-UAV  
+- Designed embedded firmware using **Raspberry Pi Pico W**  
+- Integrated AI + IoT pipelines for real-time data processing  
+- Built and maintained scalable web infrastructure for company operations  
 
 ---
 
-### 📊 GitHub Stats
+### **RAR Engineering Pvt. Ltd**  
+**Web & Product Specialist**
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=akhil-singh-jee&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="140" />
-</div>
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=akhil-singh-profile" />
-</div>
+- Designed and deployed **shockbuffer.com** for international markets  
+- Implemented SEO-optimized UI/UX for defense and industrial products  
+- Managed product catalogs, technical documentation, and performance optimization  
 
+---
 
+## 🚀 Key Projects
+
+- **Smart Emotion Detector AI**  
+  Real-time facial emotion recognition using OpenCV and ML models  
+
+- **Veronica AI Drone**  
+  Autonomous UAV with embedded firmware, mission planning, and AI integration  
+
+- **Shockbuffer.com**  
+  Enterprise-grade product platform for industrial and defense applications  
+
+- **UwinPC.com**  
+  Technology news platform focused on Windows, AI, and software engineering  
+
+---
+
+## 📜 Certifications & Training
+
+- Microsoft Azure AI Internship – *Edunet Foundation (AICTE)*  
+- AWS Solutions Architecture Job Simulation – *Forage*  
+- Cloud Bootcamp – *GeeksforGeeks × Google Developers*  
+- EC-Council:  
+  - Ethical Hacking Essentials (EHE)  
+  - Network Defense Essentials (NDE)  
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=akhil-singh-jee&theme=dark" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=akhil-singh-jee" />
+</p>
+
+---
+
+## 🤝 Open To
+
+- AI / ML & Robotics Research Collaborations  
+- UAV & Embedded Systems Projects  
+- Open-source Contributions  
+- Internships, Research Roles, and Full-Time Opportunities  
+
+---
+
+<p align="center">
+  <strong>“Engineering intelligence into real-world systems.”</strong>
+</p>
